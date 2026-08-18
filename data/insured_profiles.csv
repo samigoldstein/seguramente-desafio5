@@ -1,0 +1,8 @@
+profile_id,name,city,state,product,channel,consent,contact
+P001,Ana,São Paulo,SP,residencial,email,true,ana.sintetica@example.com
+P002,Carlos,São Paulo,SP,automovel,sms,true,+5511999990002
+P003,Mariana,São Paulo,SP,residencial,push,true,device-token-sintetico-003
+P004,Bruno,São Paulo,SP,empresarial,email,true,bruno.sintetico@example.com
+P005,Luiza,São Paulo,SP,residencial,email,false,luiza.sintetica@example.com
+P006,Diego,Rio de Janeiro,RJ,residencial,email,true,diego.sintetico@example.com
+P007,Renata,São Paulo,SP,vida,email,true,renata.sintetica@example.com
